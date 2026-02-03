@@ -2,7 +2,7 @@ type: http_request
 model: http_request
 id: rq_q6nsjUrjjM
 createdAt: 2026-02-02T12:43:46.143692400
-updatedAt: 2026-02-03T01:52:56.700779800
+updatedAt: 2026-02-03T02:05:50.095864300
 workspaceId: wk_GBymZadB2H
 folderId: fl_SzpHb7sm8E
 authentication: {}
@@ -14,5 +14,5 @@ headers: []
 method: GET
 name: users
 sortPriority: 0.0
-url: https://jsonplaceholder.typicode.com/users
+url: https://jsonplaceholder.typicode.com/users/2
 urlParameters: []
