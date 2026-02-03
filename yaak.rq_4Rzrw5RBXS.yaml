@@ -2,7 +2,7 @@ type: http_request
 model: http_request
 id: rq_4Rzrw5RBXS
 createdAt: 2026-02-02T14:50:08.697193200
-updatedAt: 2026-02-02T14:50:36.711860
+updatedAt: 2026-02-03T01:41:46.791691500
 workspaceId: wk_GBymZadB2H
 folderId: fl_SzpHb7sm8E
 authentication: {}
@@ -14,5 +14,5 @@ headers: []
 method: GET
 name: photos
 sortPriority: 0.0
-url: https://jsonplaceholder.typicode.com/photos
+url: https://jsonplaceholder.typicode.com/photos/1
 urlParameters: []
